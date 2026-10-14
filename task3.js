@@ -1,3 +1,3 @@
-const a = 52;
-const area = a * a;
+var a = 52;
+var area = a * a;
 console.log(area);
